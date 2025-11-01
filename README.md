@@ -20,9 +20,9 @@ Generazione di un dataset sintetico di 100 vendite con:
 - Date consecutive (100 giorni a partire dal 1 novembre 2025)
 - 6 negozi (Milano, Torino, Roma, Firenze, Napoli, Bari)
 - 9 prodotti divisi in 3 categorie:
-  - **Elettronica**: Smartphone, Laptop, TV (€200-€2000)
-  - **Accessori**: Webcam, Mouse, Tastiera (€20-€200)
-  - **Abbigliamento**: Jeans, T-Shirt, Giacca (€30-€300)
+  - **Informatica**: Smartphone, Laptop, Tablet (€200-€2000)
+  - **Accessori**: Webcam, Mouse, Tastiera (€50-€500)
+  - **Elettrodomestici**: TV, Lavastoviglie, Frigorifero (€30-€300)
 - Quantità casuali (1-10 unità per vendita)
 - Prezzi verosimili per categoria
 
@@ -50,8 +50,8 @@ Operazioni numeriche con array NumPy:
 ### PARTE 5 - Visualizzazione con Matplotlib
 Creazione di grafici per la visualizzazione dei risultati:
 - **Grafico 1**: Grafici a barre per incasso totale e medio per negozio
-- **Grafico 2**: Grafico a torta per la distribuzione percentuale degli incassi per negozio
-- **Grafico 3**: Grafici temporali per incasso giornaliero e cumulativo
+- **Grafico 2**: Grafico a torta per la distribuzione percentuale degli incassi per negozio e per prodotto
+- **Grafico 3**: Grafici temporali per incasso giornaliero, media modile settimanale e cumulativo
 
 ### PARTE 6 - Analisi Avanzata
 Analisi per categoria di prodotto:
@@ -63,7 +63,7 @@ Analisi per categoria di prodotto:
 Analisi aggiuntive e visualizzazioni avanzate:
 - Normalizzazione percentuale dei dati
 - Grafico combinato (barre + linee) per confronto incasso e quantità
-- Identificazione dei top 5 prodotti più venduti
+- Identificazione dei top 5 prodotti più redditizi
 
 ## File Generati
 
