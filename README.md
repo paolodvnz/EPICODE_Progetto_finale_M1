@@ -22,7 +22,7 @@ Generazione di un dataset sintetico di 100 vendite con:
 - 9 prodotti divisi in 3 categorie:
   - **Informatica**: Smartphone, Laptop, Tablet (€200-€2000)
   - **Accessori**: Webcam, Mouse, Tastiera (€50-€500)
-  - **Elettrodomestici**: TV, Lavastoviglie, Frigorifero (€30-€300)
+  - **Elettrodomestici**: TV, Lavastoviglie, Frigorifero (€300-€3000)
 - Quantità casuali (1-10 unità per vendita)
 - Prezzi verosimili per categoria
 
